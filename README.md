@@ -54,7 +54,7 @@ following code into that file.
 	</head>
 	<body>
 		<h1>Hello World</h1>
-		<p>This HTML code is inside of a '.erb' file in the views directory, where it belongs.</p>
+		<p>This HTML code is inside of a '.erb' file.</p>
 	</body>
 </html>
 ```
